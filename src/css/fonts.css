@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Sansita+Swashed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@font-face {
+    font-family: 'Cooper std';
+    src: local('Cooper std'), url(./CooperStdBlack.ttf) format('truetype');
+  }
+
+
+.fonti{
+    font-family: 'Montserrat', sans-serif;
+
+ 
+    align-content: center;
+    
+    font-size: 250%;
+    
+    font-weight: 700;
+  
+}
+
+.fonti2{
+    font-family: 'Cooper std', sans-serif;
+
+ 
+    align-content: center;
+    
+    font-size: 250%;
+    
+    font-weight: 700;
+  
+}
+
+.fonti3{
+   
+    font-family: 'Sansita Swashed', cursive;
+
+   
+  
+}
+
+.fonti3{
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+    align-content: center;
+  
+}
+
+.fonti4{
+    
+    font-family: 'Open Sans', sans-serif;
+    color:black;
+    align-content: center;
+  
+}
+.fonti5{
+    
+    font-family: 'Galada', cursive;
+
+    align-content: center;
+  
+}
+
+
+li{
+   
+    font-family: 'Sansita Swashed', cursive;
+
+   
+  
+}
